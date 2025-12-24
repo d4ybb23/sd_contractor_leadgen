@@ -1,0 +1,39 @@
+company_name,address,city,state,zip,phone,email_guess,category,source,status,enriched_date,outreach_status
+I.E. - Pacific Inc.,150 West Crest Street,Escondido,CA,92025,(760) 294-7097,info@ie-pacific.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+Alvarez and Shaw Inc.,2101 Alpine Blvd. Suite C,Alpine,CA,91901,(619) 383-4102,info@alvarezandshaw.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+Turner Construction Company,350 Camino De La Reina Suite 105,San Diego,CA,92108,(858) 217-0700,info@turnerconstruction.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+R.J. Noble Company,4217 Ponderosa Avenue Suite G,San Diego,CA,92123,(858) 715-5600,info@rjnoble.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+C.E. Wylie Construction Co.,P.O. Box 2742,Rancho Santa Fe,CA,92067,(858) 756-0348,info@cewylieconstruction.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+Romero General Construction Corp.,2150 N. Centre City Pkwy,Escondido,CA,92026,(760) 489-8412,info@romerogeneralconstru.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+M.A. Mortenson Company,700 Meadow Lane,Minneapolis,MN,55422,(763) 522-2100,info@mamortenson.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+Walsh Construction Company II LLC,1260 Corona Pointe Court Suite 201,Corona,CA,92879,(951) 336-7040,info@walshconstructioncom.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+Fortified Foundations Inc.,43980 Mahlon Vail Road #1705,Temecula,CA,92592,(951) 553-1616,info@fortifiedfoundations.com,Concrete/Foundation,AGC San Diego,enriched,2025-12-24,pending
+Pacific Building Group,9752 Aspen Creek Court Suite 150,San Diego,CA,92126,(858) 552-0600,info@pacificbuilding.com,Design-Build/Remodeling,AGC San Diego,enriched,2025-12-24,pending
+Portillo Concrete Inc.,3527 Citrus Street,Lemon Grove,CA,91945,(619) 466-4639,info@portilloconcrete.com,Concrete/Foundation,AGC San Diego,enriched,2025-12-24,pending
+Global Modular Inc.,450 Commerce Ave,Atwater,CA,95301,(209) 676-8029,info@globalmodular.com,Modular Construction,AGC San Diego,enriched,2025-12-24,pending
+E-4 Construction Inc. dba Cali Construction,12935 Pomerado Road Suite C,Poway,CA,92064,(619) 208-2401,info@e-4constructionincdb.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+M.A. Stevens Construction Inc.,125 East 17th Street,National City,CA,91950,(619) 477-7893,info@mastevensconstructio.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+Bancroft Construction Services LLC,4840 Tarantella Lane,San Diego,CA,92130,(443) 254-4531,info@bancroftconstruction.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+ProWest PCM Inc. dba ProWest Constructors,22710 Palomar Street,Wildomar,CA,92595,(951) 678-1038,info@prowestpcmincdbaprow.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+Downstream Services,2855 Progress Place,Escondido,CA,92029,(760) 746-2544,info@downstreamservices.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+Daley Corporation,P.O. Box 877,Lakeside,CA,92040,(858) 216-1775,info@daleycorporation.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+The Haskell Company,101 West Broadway Suite 1240,San Diego,CA,92101,(949) 705-5987,info@thehaskell.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+PCL Construction,4350 Executive Drive Suite 270,San Diego,CA,92121,(858) 657-3400,info@pcl.com,General Contractor,AGC San Diego,enriched,2025-12-24,pending
+Remcon Design Build,,San Diego,CA,,,info@remcondesignbuild.com,Design-Build/Remodeling,,enriched,2025-12-24,pending
+ECO HOME BUILDERS INC,5560 Ruffin Road Suite 4,San Diego,CA,92123,,info@ecohomebuilders.com,Design-Build/Remodeling,info@ecohomebuilders.com,enriched,2025-12-24,pending
+Paragon Builders,8369 Vickers St. Ste. 201,San Diego,CA,92111,,info@paragon.com,Design-Build/Remodeling,,enriched,2025-12-24,pending
+EMC General Contractors,,San Ysidro,CA,92173,,info@emcgeneralcontractor.com,General Contractor,,enriched,2025-12-24,pending
+Falcon Builders Group,,San Diego,CA,92126,,info@falconbuilders.com,Design-Build/Remodeling,,enriched,2025-12-24,pending
+Design Studio West,,San Diego,CA,,,info@designstudiowest.com,Design-Build/Remodeling,,enriched,2025-12-24,pending
+Creative Design & Build Inc,,San Diego,CA,92126,,info@creativedesign&build.com,Design-Build/Remodeling,,enriched,2025-12-24,pending
+Marrokal Design & Remodeling,,San Diego,CA,,,info@marrokaldesign&remod.com,Design-Build/Remodeling,,enriched,2025-12-24,pending
+Valley Habitats Inc.,,San Diego,CA,92122,,info@valleyhabitats.com,Residential,,enriched,2025-12-24,pending
+In N Out Remodeling,,San Diego,CA,,,info@innoutremodeling.com,Design-Build/Remodeling,,enriched,2025-12-24,pending
+Fausto Construction Inc.,1223 3rd Ave. Suite E,Chula Vista,CA,91911,,info@faustoconstruction.com,General Contractor,,enriched,2025-12-24,pending
+ValueCrafters Remodeling Inc,,San Diego,CA,,,info@valuecraftersremodel.com,Design-Build/Remodeling,,enriched,2025-12-24,pending
+California Home Center,41593 Winchester Rd,Temecula,CA,92590,,info@californiahomecenter.com,Residential,,enriched,2025-12-24,pending
+Wizdom Construction Inc.,347 3rd Avenue 2nd Floor,Chula Vista,CA,91910,,info@wizdomconstruction.com,General Contractor,,enriched,2025-12-24,pending
+Groysman Construction,12484 Heatherton Ct #53,San Diego,CA,92128,,info@groysman.com,General Contractor,,enriched,2025-12-24,pending
+DS Legend Home Builders,,San Diego,CA,,,info@dslegendhome.com,Design-Build/Remodeling,,enriched,2025-12-24,pending
+Seven Home Improvement,,San Diego,CA,92130,,info@sevenhomeimprovement.com,Residential,,enriched,2025-12-24,pending
+Ocean Drive Designs,,San Diego,CA,,,info@oceandrivedesigns.com,Design-Build/Remodeling,,enriched,2025-12-24,pending
